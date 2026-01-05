@@ -1,1 +1,4 @@
-# -blog-simples-usando-django-de-acordo-com-o-tutorial-django-girls
+mkdir meu-blog
+cd meu-blog
+python -m venv myvenv
+pip install django
