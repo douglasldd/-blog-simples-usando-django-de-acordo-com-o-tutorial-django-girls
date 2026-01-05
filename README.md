@@ -1,1 +1,1 @@
-# -blog-simples-usando-django-de-acordo-com-o-tutorial-django-girls
+# douglas blog
