@@ -44,9 +44,9 @@ urlpatterns = [
 ]
 
 <html>
-    <head><title>Meu Blog Django</title></head>
+    <head><title>Meu Blog Douglas</title></head>
     <body>
-        <h1><a href="/">Django Girls Blog</a></h1>
+        <h1><a href="/">Douglas Blog</a></h1>
         {% for post in posts %}
             <div>
                 <p>Publicado: {{ post.published_date }}</p>
@@ -59,7 +59,7 @@ urlpatterns = [
 
 python manage.py runserver
 
-
+127.0.0.1
 
 
 
